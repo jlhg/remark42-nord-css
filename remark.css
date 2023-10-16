@@ -299,8 +299,7 @@ button{
   position:absolute
 }
 .C_C:hover{
-  background-color:#0aa;
-  background-color:rgb(var(--primary-color))
+  background-color:var(--color15)
 }
 .C_D{
   font-size:12px;
