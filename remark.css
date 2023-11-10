@@ -161,7 +161,7 @@ body{
   -moz-osx-font-smoothing:grayscale;
   box-sizing:border-box;
   color:rgb(var(--primary-text-color));
-  font-family:serif;
+  font-family:sans-serif;
   font-size:14px;
   margin:0;
   padding:6px
