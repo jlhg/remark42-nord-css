@@ -1929,7 +1929,7 @@ pre .g,pre .gd,pre .ge,pre .gh,pre .gi,pre .gl,pre .go,pre .gp,pre .gr,pre .gs,p
   color:var(--color13)
 }
 .comment_theme_light .comment__username{
-  color:var(--color10)
+  color:var(--color0)
 }
 .comment_theme_light.comment_editing .comment__input{
   border-color:var(--color5)
